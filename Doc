@@ -1,0 +1,14 @@
+<DOCTYPE html>
+<html>
+<style>
+#navbar {
+  position: fixed;
+}
+</style>
+
+<nav id="navbar">
+  <header id="header">Documintation</header>
+</nav>
+<main id="main-doc"> Main Content </main>
+
+<html> 
