@@ -9,6 +9,33 @@
 <nav id="navbar">
   <header id="header">Documintation</header>
 </nav>
-<main id="main-doc"> Main Content </main>
+
+<main id="main-doc"> Main Content 
+  <section id="intro" class="main-section">
+    <header>Intro</header> 
+    <p> This is paragraph 1 of Intro </p>
+    <p> This is paragraph 2 of Intro </p>
+  </section>
+  <section id="second" class="main-section">
+  <header>Second</header> 
+    <p> This is paragraph 1 of Second</p>
+    <p> This is paragraph 2 of Second</p>
+  </section>
+  <section id="third" class="main-section">
+  <header>Third</header>
+    <p> This is paragraph 1 of Third </p>
+    <p> This is paragraph 2 of Third </p>
+  </section>
+  <section id="fourth" class="main-section">
+  <header>Fourth</header> 
+    <p> This is paragraph 1 of Fourth </p>
+    <p> This is paragraph 2 of Fourth </p>
+  </section>
+  <section id="last" class="main-section">
+  <header>Last</header> 
+    <p> This is paragraph 1 of Last </p>
+    <p> This is paragraph 2 of Last </p>
+  </section>
+</main>
 
 <html> 
