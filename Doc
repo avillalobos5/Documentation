@@ -3,16 +3,37 @@
 <style>
 #navbar {
   position: fixed;
+  border-right: solid black;
+  font-size: 30px !important;
+  min-width: 100px;
+  width: 200px;
+  height: 100%;
+}
+.nav-link {
+  font-size: 110%;
+}
+li {
+  list-style-type:none;
+  border:solid black;
+  padding: 20px;
 }
 #main-doc {
   
-  font-size: 20px;
+  font-size: 70px;
   margin-left: 10%;
   
   background-color: white;
 }
 .main-section {
+  font-size: 50px;
 }
+p {
+  font-size: 30px;
+}
+code {
+  font-size: 40px
+}
+
 
 @media (max-width: 100px)
 {p{text-color: red;}}
