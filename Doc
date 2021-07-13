@@ -10,9 +10,11 @@
   height: 100%;
 }
 .nav-link {
+  position: relative;
   font-size: 2rem;
 }
 li {
+  position: relative;
   list-style-type:none;
   border:solid black;
   padding: 20px;
@@ -38,6 +40,9 @@ code {
 @media (max-width: 900px){
   p {
     color: red;}
+  #nav-link {
+    font-size: 1vw;
+  }
 
 }
 </style>
